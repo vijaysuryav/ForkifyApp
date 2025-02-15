@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Get your recipes here",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Vijay Vempati",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.40.0",
+    "fractional": "^1.0.0",
+    "parcel": "^2.13.3",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.3"
+  }
+}
