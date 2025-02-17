@@ -1,14 +1,18 @@
 import * as model from './model.js';
+import { MODAL_CLOSE_SEC } from './config.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
 import paginationView from './views/paginationView.js';
+import addRecipeView from './views/addRecipeview.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import recipeView from './views/recipeView.js';
 import {async} from 'regenerator-runtime';
+import 'core-js/features/object/from-entries';
+
 
 // if(module.hot){
 //   module.hot.accept(); //comming from parcel
@@ -102,6 +106,39 @@ const controlBookmarks = function(){
   bookmarksView.render(model.state.bookmarks);
 }
 
+const controlAddRecipe = async function(newRecipe){
+  try{
+    // Show loading Spinner
+    addRecipeView.renderSpinner();
+
+    // function to upload the recipe data
+    await model.uploadRecipe(newRecipe);
+    console.log(model.state.recipe);
+
+    // Render recipe 
+    recipeView.render(model.state.recipe);
+
+    //Success Message
+    addRecipeView.renderMessage();
+
+    //Render Bookmark view
+    bookmarksView.render(model.state.bookmarks);
+
+    //Change ID in the URL
+    window.history.pushState(null,'',`#${model.state.recipe.id}`);
+
+    //Close form window
+    setTimeout(function(){
+   addRecipeView.toggleWindow();
+    },MODAL_CLOSE_SEC*1000);
+
+  }catch(err){
+    console.error('💥',err);
+    addRecipeView.renderError(err.message);
+  }
+
+}
+
 const init = function(){
   bookmarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
@@ -109,5 +146,7 @@ const init = function(){
   paginationView.addHandlerClick(controlPagination);
   recipeView.addHandlerUpdateServings(controlServings);
   recipeView.addHandlerAddBookmark(controlAddBookmark);
+  addRecipeView.addHandlerUpload(controlAddRecipe);
+
 }
 init();

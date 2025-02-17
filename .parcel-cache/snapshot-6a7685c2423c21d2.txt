@@ -1,11 +1,11 @@
-8089
+8090
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\es\promise\all-settled.js133839949749026025 0
 56C:\Users\vjsur\Desktop\projects\recipe\package-lock.json133840662599555558 0
 82C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\object\proto.js133839949783756413 0
 69C:\Users\vjsur\Desktop\projects\recipe\node_modules\@msgpackr-extract133840662598791965 1
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\workers\src\cpuCount.js133839773455735112 0
 91C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\typed-array\to-sorted.js133839949794398244 0
-43C:\Users\vjsur\Desktop\projects\recipe\dist133842404863126421 1
+43C:\Users\vjsur\Desktop\projects\recipe\dist133842568377035292 1
 71C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\logger\test133839773458281382 1
 93C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133839773450968432 0
 79C:\Users\vjsur\Desktop\projects\recipe\node_modules\weak-lru-cache\package.json133839773447902459 0
@@ -73,7 +73,7 @@
 75C:\Users\vjsur\Desktop\projects\recipe\node_modules\semver\classes\index.js133839773455639891 0
 65C:\Users\vjsur\Desktop\projects\recipe\node_modules\.bin\sass.cmd133839776539741223 0
 87C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\runtime-browser-hmr\LICENSE133839773453599234 0
-49C:\Users\vjsur\Desktop\projects\recipe\index.html133841280316528666 0
+49C:\Users\vjsur\Desktop\projects\recipe\index.html133842533501124978 0
 68C:\Users\vjsur\Desktop\projects\recipe\node_modules\globals\index.js133839773448947952 0
 68C:\Users\vjsur\Desktop\projects\recipe\node_modules\tslib\tslib.d.ts133839773451983838 0
 96C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\dom-serializer\lib\esm133839773459783101 1
@@ -99,7 +99,7 @@
 94C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\workers\lib\core-worker.browser.js133839773453669236 0
 58C:\Users\vjsur\Desktop\projects\recipe\node_modules\@lezer133839773442568590 1
 77C:\Users\vjsur\Desktop\projects\recipe\node_modules\dotenv-expand\lib\main.js133839773451058485 0
-55C:\Users\vjsur\Desktop\projects\recipe\src\js\config.js133841381029779924 0
+55C:\Users\vjsur\Desktop\projects\recipe\src\js\config.js133842542588313713 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\instance\flat-map.js133839949768456700 0
 74C:\Users\vjsur\Desktop\projects\recipe\node_modules\dom-serializer\LICENSE133839773445526363 0
 42C:\Users\vjsur\Desktop\projects\recipe\src133839769007528130 1
@@ -145,13 +145,13 @@
 102C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\object-get-own-property-names.js133839949782319562 0
 76C:\Users\vjsur\Desktop\projects\recipe\node_modules\tslib\modules\index.d.ts133839773451648548 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\number\to-fixed.js133839949793446835 0
-66C:\Users\vjsur\Desktop\projects\recipe\dist\index.f7626f62.css.map133842378654424246 0
+66C:\Users\vjsur\Desktop\projects\recipe\dist\index.f7626f62.css.map133842557244551852 0
 77C:\Users\vjsur\Desktop\projects\recipe\node_modules\type-fest\ts41\index.d.ts133839773453519181 0
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\src\_super_prop_base.mjs133839773473253157 0
 97C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133839773481313183 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\json\raw-json.js133839949784219054 0
-47C:\Users\vjsur\Desktop\projects\recipe\src\sass133839769007761527 1
 75C:\Users\vjsur\Desktop\projects\recipe\node_modules\js-yaml\lib\type\seq.js133839773457706204 0
+47C:\Users\vjsur\Desktop\projects\recipe\src\sass133839769007761527 1
 97C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\modules\esnext.weak-map.delete-all.js133839949765545642 0
 108C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\typed-array-from-same-type-and-list.js133839949796335786 0
 78C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\math\imulh.js133839949773437043 0
@@ -203,7 +203,7 @@
 80C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\workers\src\index.js133839773458551412 0
 90C:\Users\vjsur\Desktop\projects\recipe\node_modules\sass\types\logger\source_location.d.ts133839776539656067 0
 70C:\Users\vjsur\Desktop\projects\recipe\node_modules\escalade\readme.md133839773446797151 0
-51C:\Users\vjsur\Desktop\projects\recipe\src\js\views133842389833442276 1
+51C:\Users\vjsur\Desktop\projects\recipe\src\js\views133842493618636883 1
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\modules\esnext.map.update.js133839949764388827 0
 92C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\function\demethodize.js133839949756417836 0
 105C:\Users\vjsur\Desktop\projects\recipe\node_modules\lmdb\node_modules\node-addon-api\package-support.json133839773460303034 0
@@ -231,7 +231,7 @@
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\regions\SO.js133839773478486121 0
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\instance\reduce-right.js133839949784599873 0
 67C:\Users\vjsur\Desktop\projects\recipe\src\sass\_searchResults.scss133762833704624516 0
-59C:\Users\vjsur\Desktop\projects\recipe\src\js\controller.js133842403214294769 0
+59C:\Users\vjsur\Desktop\projects\recipe\src\js\controller.js133842558038656291 0
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\modules\es.math.cbrt.js133839949759517463 0
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\modules\esnext.global-this.js133839949763467811 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\feature-flags\LICENSE133839773457416173 0
@@ -262,18 +262,21 @@
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\typed-array\reduce.js133839949785159028 0
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\es\instance\code-point-at.js133839949752883031 0
 86C:\Users\vjsur\Desktop\projects\recipe\node_modules\msgpackr-extract\node_modules\.bin133839773491584076 1
-56C:\Users\vjsur\Desktop\projects\recipe\src\js\helpers.js133840741982848728 0
+56C:\Users\vjsur\Desktop\projects\recipe\src\js\helpers.js133842556878834200 0
 84C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\symbol\dispose.js133839949756666931 0
 86C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\instance\unshift.js133839949797026145 0
 75C:\Users\vjsur\Desktop\projects\recipe\node_modules\domutils\lib\index.d.ts133839773460978288 0
 102C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts.map133839773459592728 0
 107C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133839773459813017 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\string\trim.js133839949796019573 0
-54C:\Users\vjsur\Desktop\projects\recipe\src\js\model.js133842404862736419 0
+54C:\Users\vjsur\Desktop\projects\recipe\src\js\model.js133842568376516769 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\url\parse.js133839949783370433 0
 62C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\es133839949798485949 1
 56C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc133840662598691968 1
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\string\trim-right.js133839949795798870 0
+90C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\this-number-value.js133839949793098492 0
+95C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\package.json133839773459668071 0
+68C:\Users\vjsur\Desktop\projects\recipe\src\js\views\addRecipeView.js133842547777116667 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\esm\_identity.js133839773466023330 0
 75C:\Users\vjsur\Desktop\projects\recipe\node_modules\semver\functions\lte.js133839773458181350 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\typed-array\index.js133839949775879279 0
@@ -310,7 +313,7 @@
 69C:\Users\vjsur\Desktop\projects\recipe\node_modules\lmdb\node_modules133839773442598697 1
 56C:\Users\vjsur\Desktop\projects\recipe\node_modules\lmdb133839773466453326 1
 86C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\core\src\CommittedAsset.js133839773463069996 0
-66C:\Users\vjsur\Desktop\projects\recipe\src\js\views\previewView.js133842393813074895 0
+66C:\Users\vjsur\Desktop\projects\recipe\src\js\views\previewView.js133842563076379994 0
 100C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\htmlparser2\lib\index.d.ts133839773459813017 0
 97C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\css-reflections.js133839773468413827 0
 65C:\Users\vjsur\Desktop\projects\recipe\node_modules\color-convert133839773447407237 1
@@ -318,7 +321,7 @@
 76C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\of.js133839949782650284 0
 108C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133839773454264407 0
 79C:\Users\vjsur\Desktop\projects\recipe\node_modules\domutils\lib\traversal.d.ts133839773461638328 0
-65C:\Users\vjsur\Desktop\projects\recipe\src\js\views\recipeView.js133842360729542254 0
+65C:\Users\vjsur\Desktop\projects\recipe\src\js\views\recipeView.js133842563063433377 0
 57C:\Users\vjsur\Desktop\projects\recipe\node_modules\clone133839773451843848 1
 74C:\Users\vjsur\Desktop\projects\recipe\node_modules\resolve-from\readme.md133839773447457146 0
 65C:\Users\vjsur\Desktop\projects\recipe\node_modules\timsort\build133839773448817939 1
@@ -1824,8 +1827,6 @@
 101C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts133839773459973017 0
 102C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.js133839773458561349 0
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\get-iterator-method.js133839949770865296 0
-90C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\this-number-value.js133839949793098492 0
-95C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\package.json133839773459668071 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\core\lib\public\Config.js133839773463119949 0
 100C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\lib\maps\xml.json133839773459783101 0
 75C:\Users\vjsur\Desktop\projects\recipe\node_modules\node-addon-api\index.js133839773453724329 0
@@ -1848,11 +1849,6 @@
 101C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\once-event-listener.js133839773476345708 0
 118C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\LICENSE133839773457436166 0
 106C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.js133839773458002095 0
-92C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\esm\_non_iterable_spread.js133839773466573328 0
-91C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\host-report-errors.js133839949773178500 0
-100C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133839773471676913 0
-81C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\reflect\set.js133839949787570933 0
-92C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\domutils\readme.md133839773460213023 0
 73C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\stable\string133839949796140496 1
 107C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\lib\encode-trie.d.ts.map133839773460323006 0
 74C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\core\package.json133839773452393832 0
@@ -1882,6 +1878,11 @@
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\iterator\filter.js133839949766528906 0
 122C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts.map133839773460043018 0
 117C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133839773460798302 0
+92C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\esm\_non_iterable_spread.js133839773466573328 0
+91C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\host-report-errors.js133839949773178500 0
+100C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133839773471676913 0
+81C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\reflect\set.js133839949787570933 0
+92C:\Users\vjsur\Desktop\projects\recipe\node_modules\posthtml\node_modules\domutils\readme.md133839773460213023 0
 87C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\array-for-each.js133839949749845018 0
 91C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\typed-array\reverse.js133839949785864854 0
 96C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\string\virtual\pad-start.js133839949783060275 0
@@ -2329,7 +2330,7 @@
 77C:\Users\vjsur\Desktop\projects\recipe\node_modules\@babel\code-frame\LICENSE133839773445721731 0
 106C:\Users\vjsur\Desktop\projects\recipe\node_modules\msgpackr-extract\node_modules\detect-libc\package.json133839773458461350 0
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\modules\esnext.promise.try.js133839949764697282 0
-62C:\Users\vjsur\Desktop\projects\recipe\dist\icons.dfd7a6db.svg133842378654771928 0
+62C:\Users\vjsur\Desktop\projects\recipe\dist\icons.dfd7a6db.svg133842549481737907 0
 112C:\Users\vjsur\Desktop\projects\recipe\node_modules\msgpackr-extract\node_modules\detect-libc\lib\detect-libc.js133839773457871354 0
 91C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\object\get-prototype-of.js133839949771718593 0
 111C:\Users\vjsur\Desktop\projects\recipe\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js133839773458111358 0
@@ -4865,7 +4866,7 @@
 106C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\object-prototype-accessors-forced.js133839949782459831 0
 78C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\es\string\blink.js133839949752227557 0
 96C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\object-set-prototype-of.js133839949782469833 0
-62C:\Users\vjsur\Desktop\projects\recipe\dist\icons.21bad73c.svg133842378654771928 0
+62C:\Users\vjsur\Desktop\projects\recipe\dist\icons.21bad73c.svg133842557244701839 0
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\object-to-array.js133839949782479833 0
 94C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\ordinary-to-primitive.js133839949782760959 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\internals\own-keys.js133839949782806173 0
@@ -5364,7 +5365,7 @@
 79C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\group.js133839949772748388 0
 82C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\includes.js133839949773662738 0
 97C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\typed-array\float64-array.js133839949768950675 0
-61C:\Users\vjsur\Desktop\projects\recipe\dist\logo.726d37a8.png133842378654193785 0
+61C:\Users\vjsur\Desktop\projects\recipe\dist\logo.726d37a8.png133842557244371841 0
 82C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\iterator.js133839949778511044 0
 78C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\join.js133839949779038931 0
 78C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\full\array\keys.js133839949779825241 0
@@ -5461,7 +5462,7 @@
 103C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133839773469476332 1
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\weak-set\of.js133839949782640231 0
 92C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\typed-array\iterator.js133839949778496522 0
-62C:\Users\vjsur\Desktop\projects\recipe\dist\index.f7626f62.css133842378654193785 0
+62C:\Users\vjsur\Desktop\projects\recipe\dist\index.f7626f62.css133842557244521829 0
 85C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\weak-map\from.js133839949770318354 0
 94C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\weak-map\get-or-insert.js133839949771312586 0
 82C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\features\string\big.js133839949751755191 0
@@ -6369,7 +6370,7 @@
 90C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\transformer-sass\lib\legacy.js133839777774794538 0
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\set\is-superset-of.js133839949777477017 0
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\regexp\escape.js133839949761980250 0
-61C:\Users\vjsur\Desktop\projects\recipe\dist\index.e37f48ea.js133842404863096397 0
+61C:\Users\vjsur\Desktop\projects\recipe\dist\index.e37f48ea.js133842568376985292 0
 82C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\regexp\match.js133839949781287183 0
 84C:\Users\vjsur\Desktop\projects\recipe\node_modules\core-js\actual\regexp\replace.js133839949785599269 0
 99C:\Users\vjsur\Desktop\projects\recipe\node_modules\@swc\helpers\esm\_class_apply_descriptor_set.js133839773464892597 0
@@ -6943,7 +6944,7 @@
 89C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\dataset.js133839773469706379 0
 81C:\Users\vjsur\Desktop\projects\recipe\node_modules\@parcel\workers\lib\Worker.js133839773461198290 0
 105C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133839773469751530 0
-64C:\Users\vjsur\Desktop\projects\recipe\dist\favicon.8b2f57bf.png133842378653621383 0
+64C:\Users\vjsur\Desktop\projects\recipe\dist\favicon.8b2f57bf.png133842557244241882 0
 104C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133839773469811524 0
 99C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\deviceorientation.js133839773469881519 0
 88C:\Users\vjsur\Desktop\projects\recipe\node_modules\caniuse-lite\data\features\dnssec.js133839773470021568 0
@@ -8085,6 +8086,6 @@
 67C:\Users\vjsur\Desktop\projects\recipe\node_modules\.bin\semver.ps1133839773491561129 0
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\.bin\update-browserslist-db.cmd133839773491571084 0
 83C:\Users\vjsur\Desktop\projects\recipe\node_modules\.bin\update-browserslist-db.ps1133839773491584076 0
-65C:\Users\vjsur\Desktop\projects\recipe\dist\index.e37f48ea.js.map133842404863116411 0
-54C:\Users\vjsur\Desktop\projects\recipe\dist\index.html133842378654781905 0
+65C:\Users\vjsur\Desktop\projects\recipe\dist\index.e37f48ea.js.map133842568377025306 0
+54C:\Users\vjsur\Desktop\projects\recipe\dist\index.html133842557244701839 0
 62C:\Users\vjsur\Desktop\projects\recipe\dist\recipe.3464ddca.js133839899446332134 0
