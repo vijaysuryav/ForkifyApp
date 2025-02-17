@@ -2,9 +2,10 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Get your recipes here",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Vijay Vempati",
   "license": "ISC",
@@ -16,6 +17,7 @@
     "sass": "^1.26.10"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.13.3"
+    "@parcel/transformer-sass": "^2.13.3",
+    "svgo": "^3.3.2"
   }
 }
