@@ -20,20 +20,27 @@ const controlRecipes = async function(){
 
     if(!id) return;
     recipeView.renderSpinner();
+        //0) results view to mark selected search result 
+        resultsView.update(model.getSearchResultsPage());
     // 1) Loading recipe
     await model.loadRecipe(id);
 
     //2) Rendering recipe
     recipeView.render(model.state.recipe);
 
+
+    
   
   }catch(err){
     recipeView.renderError();
   }
+
+  
 };
 const controlSearchResults = async function(){
   try{ 
     resultsView.renderSpinner();
+
     // 1) get Seacrh query 
     const query = searchView.getQuery();
     if(!query) return;
@@ -64,9 +71,21 @@ const controlPagination = function(goToPage){
   //2) render NEW pagination buttons
   paginationView.render(model.state.search);
 }
+
+
+const controlServings = function(newServings){
+  // Update teh recipe servings(in state)
+  model.updateServings(newServings);
+
+  // Update teh recipe view 
+  recipeView.update(model.state.recipe);
+
+}
+
 const init = function(){
   recipeView.addHandlerRender(controlRecipes);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
+  recipeView.addHandlerUpdateServings(controlServings);
 }
 init();
